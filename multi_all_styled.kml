@@ -1,0 +1,28 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark>
+<ExtendedData>
+  <Data name="stroke"><value>#ff00ea</value></Data>
+  <Data name="stroke-width"><value>5</value></Data>
+  <Data name="stroke-opacity"><value>0.7</value></Data></ExtendedData>
+  <LineString><coordinates>16.29552735941374,43.08419449547782
+16.00893420386538,43.00720673827368</coordinates></LineString></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="marker-color"><value>#ff0a0a</value></Data>
+  <Data name="marker-size"><value>large</value></Data></ExtendedData>
+  <Point><coordinates>16.031403948131498,43.09136593964752</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="stroke"><value>#fa0000</value></Data>
+  <Data name="stroke-width"><value>8</value></Data>
+  <Data name="stroke-opacity"><value>0.8</value></Data>
+  <Data name="fill"><value>#00a822</value></Data>
+  <Data name="fill-opacity"><value>0.5</value></Data></ExtendedData>
+  <Polygon>
+<outerBoundaryIs>
+  <LinearRing><coordinates>15.994761900845276,42.99716133167209
+15.980366810841474,42.97179225149114
+15.995416223118326,42.94018593148897
+16.03074962585842,42.952638843913405
+16.052996583137883,42.988067959570486
+15.994761900845276,42.99716133167209</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>
