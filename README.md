@@ -1,4 +1,4 @@
-# testGISData
+# Test Spatial Data
 Collection of simple files for testing systems performing geospatial Extract-Transform-Load.
 
 Files are KML, KMZ, zipped Shapfiles, and GeoJSON.
